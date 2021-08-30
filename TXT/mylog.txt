@@ -1,1 +1,5 @@
+# revised at Monday 30/08/2021 17:33:08 WIB
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 Github Related
