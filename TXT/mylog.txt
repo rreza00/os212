@@ -2,5 +2,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W01 240 L31 Setup Vbox
 ZCZC W00 10 L03 Github Related
 ZCZC W00 20 L04 Github Pages Related
