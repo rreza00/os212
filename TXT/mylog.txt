@@ -1,7 +1,9 @@
+# revised at Sunday 12/09/2021 11.00 WIB
 # revised at Monday 30/08/2021 18:53 WIB
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W01 45 L04 added links.md
 ZCZC W01 240 L31 Setup Vbox
 ZCZC W00 10 L03 Github Related
 ZCZC W00 20 L04 Github Pages Related
