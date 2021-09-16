@@ -1,5 +1,6 @@
+---
 permalink: /LINKS/
-
+---
 # Top 10 Links
 
 [CLI Guidelines](https://clig.dev/#the-basics)</br>
