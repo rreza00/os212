@@ -1,9 +1,12 @@
+# revised at Thursday 23/09/2021 10.50 WIB
 # revised at Sunday 19/09/2021 9.35 WIB
 # revised at Sunday 12/09/2021 11.00 WIB
 # revised at Monday 30/08/2021 18:53 WIB
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W03 30 L06 Membaca buku OS
+ZCZC W03 150 L13 Assignment #03
 ZCZC W02 180 L32 Youtube
 ZCZC W02 60 L00 Belajar buat quiz
 ZCZC W02 50 L27 GnuPG, key-gen, encrypt/decrypt.
