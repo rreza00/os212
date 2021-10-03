@@ -26,3 +26,11 @@ Video ini cukup lengkap dan jelas</br>
 [Scripting Guide](https://www.youtube.com/watch?v=oxuRxtrO2Ag)</br>
 Dalam video ini kalian akan diajarkan cara melakukan scripting di terminal</br>
 Video cukup singkat dan padat</br>
+
+[Address Binding|Linking|Loading](https://www.youtube.com/watch?v=40mrrsRJLYc)</br>
+Video ini menerangkan dengan jelas dan berkomplemen baik dengan materi di kelas</br>
+Video menjelaskan lebih ke konsep dibanding praktek</br>
+
+[Guide to Big and Little Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)</br>
+Website menjelaskan dengan baik terkait little endian dan big endian</br>
+diberikan beberapa contoh yang jelas dan mudah untuk dimengerti</br>
