@@ -34,3 +34,11 @@ Video menjelaskan lebih ke konsep dibanding praktek</br>
 [Guide to Big and Little Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)</br>
 Website menjelaskan dengan baik terkait little endian dan big endian</br>
 diberikan beberapa contoh yang jelas dan mudah untuk dimengerti</br>
+
+[Gary explains Virtual Memory](https://www.youtube.com/watch?v=2quKyPnUShQ)</br>
+Video ini menjelaskan tentang apa itu virtual memory</br>
+Video ini menjelaskan pengertian dan cara kerja virtual memory dengan jelas disertai contoh serta aksen Gary nice :)</br>
+
+[Virtual Memory materi Illinois University](http://www.cs.iit.edu/~virgil/cs470/Book/chapter10.pdf)</br>
+file .pdf ini berisi chapter virtual memory</br>
+Terdapat dua soal latihan di halaman terakhir</br>

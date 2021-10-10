@@ -1,3 +1,4 @@
+# revised at Sunday 10/10 2021 7.00 WIB
 # revised at Sunday 03/10/2021 6.45 WIB
 # revised at Thursday 23/09/2021 10.50 WIB
 # revised at Sunday 19/09/2021 9.35 WIB
@@ -6,6 +7,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W05 33 L32 Youtube
+ZCZC W05 40 L04 Github Pages Related
+ZCZC W05 80 L09 Assignment in General
 ZCZC W04 30 L04 Github Pages Related
 ZCZC W04 40 L32 Youtube
 ZCZC W04 70 L09 Assignment in General
