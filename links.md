@@ -42,3 +42,11 @@ Video ini menjelaskan pengertian dan cara kerja virtual memory dengan jelas dise
 [Virtual Memory materi Illinois University](http://www.cs.iit.edu/~virgil/cs470/Book/chapter10.pdf)</br>
 file .pdf ini berisi chapter virtual memory</br>
 Terdapat dua soal latihan di halaman terakhir</br>
+
+[About Concurrency](https://www.javatpoint.com/concurrency-in-operating-system)</br>
+Menjelaskan apa itu concurrency, prinsip, masalah yang dihadapi dan advantage/disadvantage dari menggunakan concurrency</br>
+singkat padat dan jelas</br>
+
+[Fork in C Programming](https://www.section.io/engineering-education/fork-in-c-programming-language/)</br>
+Menjelaskan apa itu fork dan bagaimana cara menggunakannya</br>
+terdapat code lines yang memudahkan anda untuk memahami cara menggunakan fork</br>
