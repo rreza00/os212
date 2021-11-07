@@ -50,3 +50,15 @@ singkat padat dan jelas</br>
 [Fork in C Programming](https://www.section.io/engineering-education/fork-in-c-programming-language/)</br>
 Menjelaskan apa itu fork dan bagaimana cara menggunakannya</br>
 terdapat code lines yang memudahkan anda untuk memahami cara menggunakan fork</br>
+
+[About Synchronization](https://www.studytonight.com/operating-system/process-synchronization)</br>
+Menjelaskan Process Synchronization dan pembagiannya menjadi dua kategori yaitu independent Process dan Cooperative Process</br>
+Menjelaskan tentang Synchronization dalam hardware juga</br>
+
+[Deadlocks](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)</br>
+Menjelaskan tentang Deadlock disertai contoh</br>
+Terdapat latihan dan beberapa link untuk melatih pemahaman terkait materi Deadlock</br>
+
+[Shared Memories](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)</br>
+Menjelaskan tentang shared memory dengan lengkap</br>
+Terdapat contoh menggunakan bahasa C</br>

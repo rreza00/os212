@@ -1,3 +1,4 @@
+# revised at Sunday 07/11/2021 10.00 WIB
 # revised at Sunday 17/10/2021 11.10 WIB
 # revised at Sunday 10/10 2021 7.00 WIB
 # revised at Sunday 03/10/2021 6.45 WIB
@@ -8,6 +9,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W07 30 L09 Assignment in General
+ZCZC W07 40 L32 Youtube
+ZCZC W07 70 L06 Membaca materi dari buku
+ZCZC W07 60 L09 Assignment in General
 ZCZC W06 80 L00 Menonton Rekaman Sesi Synchronous
 ZCZC W06 40 L32 Youtube
 ZCZC W06 50 L09 Assignment in General
