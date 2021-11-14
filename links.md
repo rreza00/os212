@@ -62,3 +62,11 @@ Terdapat latihan dan beberapa link untuk melatih pemahaman terkait materi Deadlo
 [Shared Memories](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)</br>
 Menjelaskan tentang shared memory dengan lengkap</br>
 Terdapat contoh menggunakan bahasa C</br>
+
+[Preemptive vs Non-Preemptive](https://www.tutorialspoint.com/preemptive-and-non-preemptive-scheduling#:~:text=Preemptive%20Scheduling%20is%20a%20CPU,CPU%20to%20a%20given%20process.&text=Non%2Dpreemptive%20Scheduling%20is%20a,pushed%20to%20the%20waiting%20state.)</br>
+Memberikan definisi dari preemptive dan non preemptive scheduling</br>
+Diberikan tabel supaya mudah untuk melihat perbedaan</br>
+
+[Scheduling in Multiprocessors](https://www.includehelp.com/operating-systems/multiprocessor-scheduling-in-operating-system.aspx)</br>
+Memberikan penjelasan tentang scheduling dalam sistem multiprocessor</br>
+Diberikan beberapa ilustrasi supaya dapat lebih mudah untuk dipahami</br>
